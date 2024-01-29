@@ -1,0 +1,18 @@
+---
+title: "Notes/practice"
+author: "Lili Benitez"
+date: "2024-01-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+## Class practice 
+
+
+
+```{r}
+setwd()
+```
